@@ -1,4 +1,4 @@
-timestamp,namespace,consumergroupid,consumer_lag
+timestamp,namespace,consumergroupid,kafka.consumer_lag
 one,tdp-farm-zsct,transportation.pipeline.observe.ecco.consignment.v1,1
 one,tdp-farm-zsct,transportation.pipeline.observe.ecco.consignment.v1,1
 one,tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
