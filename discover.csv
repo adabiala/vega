@@ -1,8 +1,8 @@
-timestamp,kubernetes.namespace,kafka.consumergroup.id,kafka.consumergroup.consumer_lag
-"one",tdp-farm-zsct,transportation.pipeline.observe.ecco.consignment.v1,1
-"one",tdp-farm-zsct,transportation.pipeline.observe.ecco.consignment.v1,1
-"one",tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
-"two",tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
-"two",tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
-"two",tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
-"two",tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
+timestamp,namespace,consumergroupid,consumer_lag
+one,tdp-farm-zsct,transportation.pipeline.observe.ecco.consignment.v1,1
+one,tdp-farm-zsct,transportation.pipeline.observe.ecco.consignment.v1,1
+one,tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
+two,tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
+two,tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
+two,tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
+two,tdp-farm-zsct,transportation.pipeline.sink.ecco.v1.state,1
